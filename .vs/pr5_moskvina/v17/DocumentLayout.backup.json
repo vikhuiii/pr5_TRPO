@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\addcomponentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:addcomponentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\addcomponentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:addcomponentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\componentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:componentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\componentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:componentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\addcomppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:addcomppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\addcomppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:addcomppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\comp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:comp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|c:\\users\\emosk\\downloads\\pr5_trpo-main\\pr5_trpo-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58D0DE6B-FCBB-484D-82B7-816D08B6F957}|pr5_moskvina.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 553,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddComponentsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddComponentsPage.xaml",
+              "RelativeDocumentMoniker": "AddComponentsPage.xaml",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddComponentsPage.xaml",
+              "RelativeToolTip": "AddComponentsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T05:24:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddComponentsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddComponentsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AddComponentsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddComponentsPage.xaml.cs",
+              "RelativeToolTip": "AddComponentsPage.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:27:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ListPage.xaml.cs",
+              "RelativeToolTip": "ListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:10:19.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComponentsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ComponentsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ComponentsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ComponentsPage.xaml.cs",
+              "RelativeToolTip": "ComponentsPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:44:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComponentsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ComponentsPage.xaml",
+              "RelativeDocumentMoniker": "ComponentsPage.xaml",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ComponentsPage.xaml",
+              "RelativeToolTip": "ComponentsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T04:36:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCompPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddCompPage.xaml.cs",
+              "RelativeDocumentMoniker": "AddCompPage.xaml.cs",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddCompPage.xaml.cs",
+              "RelativeToolTip": "AddCompPage.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:12:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCompPage.xaml",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddCompPage.xaml",
+              "RelativeDocumentMoniker": "AddCompPage.xaml",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\AddCompPage.xaml",
+              "RelativeToolTip": "AddCompPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T04:56:10.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ListPage.xaml",
+              "RelativeDocumentMoniker": "ListPage.xaml",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\ListPage.xaml",
+              "RelativeToolTip": "ListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T03:53:27.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comp.cs",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\Comp.cs",
+              "RelativeDocumentMoniker": "Comp.cs",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\Comp.cs",
+              "RelativeToolTip": "Comp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:15:19.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\Component.cs",
+              "RelativeDocumentMoniker": "Component.cs",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\Component.cs",
+              "RelativeToolTip": "Component.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:25:54.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T03:45:24.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\emosk\\Downloads\\pr5_TRPO-main\\pr5_TRPO-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T03:45:27.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
